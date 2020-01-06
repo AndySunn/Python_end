@@ -1,5 +1,5 @@
 # 关于期末项目的技术文档
-（老师你好，可能是学习网站的原因，如果直接点开ur可能会打不开Pythonanywhere的页面，先在此重新给出url，烦请老师谅解 andymelon.pythonanywhere.com）
+
 ## Python技术文档：
 
 + flask结构完整且没有报错,能够正常运行
